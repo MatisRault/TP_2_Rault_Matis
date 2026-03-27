@@ -1,0 +1,25 @@
+.navbar {
+  background: #ffffff;
+  border-bottom: 1px solid #e0e0e0;
+  padding: 0 80px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar__title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #000;
+}
+
+.navbar__badge {
+  background: #f0faf6;
+  color: #01b285;
+  border: 1px solid #b2e8d8;
+  border-radius: 999px;
+  padding: 4px 16px;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
